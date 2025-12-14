@@ -1,5 +1,7 @@
 # 👁️ SkyScan AI
 
+[![Live App](https://img.shields.io/badge/Demo-Live%20App-brightgreen?style=for-the-badge&logo=streamlit)](https://skyscan-ai.onrender.com)
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)
 ![AI](https://img.shields.io/badge/Model-YOLOv8-green)
 
